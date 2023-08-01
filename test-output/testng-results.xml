@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-01T14:03:15 EDT" name="OrangeHRM" finished-at="2023-08-01T14:03:55 EDT" duration-ms="40334">
+    <groups>
+    </groups>
+    <test started-at="2023-08-01T14:03:15 EDT" name="testngframework" finished-at="2023-08-01T14:03:55 EDT" duration-ms="40334">
+      <class name="test_class.Login_test">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:15 EDT" name="initsetup" finished-at="2023-08-01T14:03:20 EDT" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="verify()[pri:1, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:20 EDT" name="verify" finished-at="2023-08-01T14:03:20 EDT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:20 EDT" name="close" finished-at="2023-08-01T14:03:20 EDT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:21 EDT" name="initsetup" finished-at="2023-08-01T14:03:24 EDT" duration-ms="3867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="username(java.lang.String,java.lang.String)[pri:2, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:24 EDT" name="username" data-provider="Data" finished-at="2023-08-01T14:03:30 EDT" duration-ms="5533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:30 EDT" name="close" finished-at="2023-08-01T14:03:30 EDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:30 EDT" name="initsetup" finished-at="2023-08-01T14:03:39 EDT" duration-ms="8510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="username(java.lang.String,java.lang.String)[pri:2, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:39 EDT" name="username" data-provider="Data" finished-at="2023-08-01T14:03:44 EDT" duration-ms="5614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[poiyt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:44 EDT" name="close" finished-at="2023-08-01T14:03:44 EDT" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:44 EDT" name="initsetup" finished-at="2023-08-01T14:03:49 EDT" duration-ms="5069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="username(java.lang.String,java.lang.String)[pri:2, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:49 EDT" name="username" data-provider="Data" finished-at="2023-08-01T14:03:55 EDT" duration-ms="5462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Allen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14po1!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test_class.Login_test@71d44a3]" started-at="2023-08-01T14:03:55 EDT" name="close" finished-at="2023-08-01T14:03:55 EDT" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test_class.Login_test -->
+    </test> <!-- testngframework -->
+  </suite> <!-- OrangeHRM -->
+</testng-results>

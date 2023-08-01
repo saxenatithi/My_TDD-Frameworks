@@ -1,0 +1,8 @@
+
+<suite name="OrangeHRM" parallel="tests">
+	<test name="testngframework" allow-return-values="true">
+<classes>
+<class name="test_class.Login_test" />
+</classes>
+	</test>
+</suite> 
